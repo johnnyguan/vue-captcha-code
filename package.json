@@ -1,11 +1,11 @@
 {
-  "name": "@johnnyguan/vue-capcha-code",
+  "name": "@johnnyguan/vue-captcha-code",
   "author": "johnnyguan",
   "version": "0.1.2",
-  "description": "vue capcha code",
+  "description": "vue captcha code",
   "keywords": [
     "vue",
-    "capcha",
+    "captcha",
     "canvas"
   ],
   "homepage": "https://github.com/johnnyguan/vue-captcha-code",
@@ -15,12 +15,12 @@
   },
   "license": "ISC",
   "private": false,
-  "main": "./dist/vue-capcha-code.common.js",
+  "main": "./dist/vue-captcha-code.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "package": "vue-cli-service build --target lib --name vue-capcha-code ./src/components/index.js"
+    "package": "vue-cli-service build --target lib --name vue-captcha-code ./src/components/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.4",
