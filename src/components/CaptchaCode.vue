@@ -5,7 +5,7 @@
 </style>
 
 <template>
-  <div class="capcha-code-wrapper">
+  <div class="captcha-code-wrapper">
     <canvas :id="id" class="captcha-canvas" :width="width" :height="height" @click="changeCode"></canvas>
   </div>
 </template>

@@ -1,8 +1,8 @@
 import Vue from 'vue'
-import CapchaCode from './CapchaCode'
+import CaptchaCode from './CaptchaCode'
 
 const Components = {
-  CapchaCode
+  CaptchaCode
 }
 Object.keys(Components).forEach(name => {
   Vue.component(name, Components[name])
