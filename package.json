@@ -1,6 +1,19 @@
 {
   "name": "@johnnyguan/vue-capcha-code",
-  "version": "0.1.1",
+  "author": "johnnyguan",
+  "version": "0.1.2",
+  "description": "vue capcha code",
+  "keywords": [
+    "vue",
+    "capcha",
+    "canvas"
+  ],
+  "homepage": "https://github.com/johnnyguan/vue-captcha-code",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johnnyguan/vue-captcha-code.git"
+  },
+  "license": "ISC",
   "private": false,
   "main": "./dist/vue-capcha-code.common.js",
   "scripts": {
